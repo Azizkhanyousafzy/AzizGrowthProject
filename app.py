@@ -1,7 +1,7 @@
 #streamlit
 import streamlit as st
 
-st.set_page_config(page_title= "growth mindset project", prject_icon="★")
+st.set_page_config(page_title= "growth mindset project", prject)
 st.title("Growth Mindset Challenge: Web Appwith Streamlit")
 st.header("Welcome to Your Growth Journey!") 
 st.write("A growth mindset, a term coined by psychologist Carol Dweck, refers to a cognitive and metacognitive framework wherein individuals perceive intelligence, abilities, and talents as malleable traits that can be developed over time through effort, effective strategies, and input from others. This contrasts with a fixed mindset, where such attributes are viewed as static and innate")
